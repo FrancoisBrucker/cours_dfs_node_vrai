@@ -1,0 +1,10 @@
+{
+  "name": "cours_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "François Brucker <francois.brucker@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
